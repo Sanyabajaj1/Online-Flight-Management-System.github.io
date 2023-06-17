@@ -2,7 +2,7 @@
 
 **Database Name: ofbsphp**
 
-**Developed by Sujoy Dcunha, Christina Pereira, Mark Coutinho**
+**Developed by SANYA BAJAJ-20BCS7797**
 
 **Recommended PHP Version 5.6, 7.4**
 
