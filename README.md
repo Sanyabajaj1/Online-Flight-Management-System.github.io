@@ -18,8 +18,7 @@ Password: codeastro.com
 ## Required PHP Version: >= 7.4
 
 =================================================
-**Originally Developed By:Sujoy Dcunha, Christina Pereira, Mark Coutinho**
-**Downloaded @: codeastro.com**
+**SANYA BAJAJ- 20BCS7797*
 =================================================
 This is a modified copy. Some error occurred while running the project using PHP v8.1 and MariaDB 10.24.
 Modifcations and changes are mostly done on the front-end side (UI/UX)
